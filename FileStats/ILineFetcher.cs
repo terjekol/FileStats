@@ -1,6 +1,6 @@
 ﻿namespace FileStats
 {
-    internal interface ILineFetcher
+    public interface ILineFetcher
     {
         string[] Fetch(string resourceName);
     }

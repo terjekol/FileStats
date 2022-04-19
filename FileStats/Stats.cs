@@ -1,6 +1,6 @@
 ﻿namespace FileStats
 {
-    internal class Stats
+    public class Stats
     {
         public int LineCount { get; set; }
         public int BlankLineCount { get; set; }

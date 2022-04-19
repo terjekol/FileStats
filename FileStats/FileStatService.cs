@@ -1,6 +1,6 @@
 ﻿namespace FileStats
 {
-    internal class FileStatService
+    public class FileStatService
     {
         private readonly ILineFetcher _lineFetcher;
 
